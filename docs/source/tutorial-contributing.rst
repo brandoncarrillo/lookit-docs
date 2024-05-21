@@ -328,6 +328,7 @@ List of tutorial participants
 - Brian Leahy (MIT)
 - Jada Beal (East Tennessee State University)
 - Balthazar Lauzon (Ulster University)
+- Brandon Carrillo (Yale University)
 
 Checking for and creating issues on Github
 -------------------------------------------
